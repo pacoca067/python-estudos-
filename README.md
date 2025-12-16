@@ -1,5 +1,10 @@
-# Welcome to GitHub Desktop!
+# Estudos em Python 🐍
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Repositório com exercícios e exemplos feitos durante meus estudos em Python.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Conteúdos
+- Variáveis e operadores
+- Condicionais (if / else)
+- Laços (for / while)
+- Funções
+- Listas e matrizes
